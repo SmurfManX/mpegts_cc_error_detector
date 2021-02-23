@@ -20,7 +20,7 @@ Usage: ccdetect [-m <mcast>] [-p <port>] [-o <file>] [-r] [-h]
 # Console Log 
 ```
 ================================================================
-[root@server ~]# ccdetect -m 224.0.0.1 -p 1234 -o file.log
+[root@server ~]# ccdetect -m 224.0.0.1 -p 1234
 2021-02-22 18:52:10.31 - [I] Starting reception...
 2021-02-22 18:52:10.33 - [I] Started multicast stream
 2021-02-22 18:52:10.36 - [I] CC ERROR: PID(100), MUSTBE(12), RECEIVED(3)
