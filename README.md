@@ -1,4 +1,4 @@
-# MPEG Transport Stream Continuity Counters Error Detector
+# MPEG Transport Stream Continuity Counters Error Detector UDP/RTP
 
 # Installation
 ```
